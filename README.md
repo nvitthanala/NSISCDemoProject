@@ -1,4 +1,5 @@
-# NSISC Tactical Meet Ops & Recruit Matrix 🏊‍♂️📊
+# NSISC Meet Ops & Recruit Matrix 🏊‍♂️📊
+**[🚀 View Live Application Here](https://nsisc-demo-project.vercel.app/)**
 
 An enterprise-grade sports analytics and meet management dashboard designed specifically for the New South Intercollegiate Swimming Conference (NSISC). Built with a high-contrast, defense-tech inspired interface, this platform tracks live championship scoring, handles complex tie-breaking mathematics, and projects the exact point impact of prospective recruits using real-time course conversions.
 
