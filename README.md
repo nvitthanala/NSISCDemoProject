@@ -1,14 +1,6 @@
-
 # NSISC Tactical Meet Ops & Recruit Matrix 🏊‍♂️📊
 
 An enterprise-grade sports analytics and meet management dashboard designed specifically for the New South Intercollegiate Swimming Conference (NSISC). Built with a high-contrast, defense-tech inspired interface, this platform tracks live championship scoring, handles complex tie-breaking mathematics, and projects the exact point impact of prospective recruits using real-time course conversions.
-
-\<p align="left"\>
-\<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB)" alt="React" /\>
-\<img src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript" /\>
-\<img src="[https://img.shields.io/badge/Ruby\_on\_Rails-CC0000?style=for-the-badge\&logo=ruby-on-rails\&logoColor=white](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)" alt="Ruby on Rails" /\>
-\<img src="[https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/GraphQL-E10098%3Fstyle%3Dfor-the-badge%26logo%3Dgraphql%26logoColor%3Dwhite)" alt="GraphQL" /\>
-\</p\>
 
 ## 🚀 Key Features
 
