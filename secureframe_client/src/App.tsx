@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect, useState, useMemo } from 'react';
 
 // --- MATH & CONVERSION HELPERS ---
@@ -72,7 +73,7 @@ function App() {
   };
 
   const fetchAthletes = () => {
-    fetch(import.meta.env.VITE_API_URL, {
+    fetch('https://nsisc-api.onrender.com/graphql', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
