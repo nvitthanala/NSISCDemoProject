@@ -87,13 +87,13 @@ test:
 production:
   primary:
     <<: *default
-    url: <%= ENV['DATABASE_URL'] %>
+    url: <%= ENV.fetch("DATABASE_URL") %>
   cache:
     <<: *default
-    url: <%= ENV['DATABASE_URL'] %>
+    url: <%= ENV.fetch("DATABASE_URL") %>
   queue:
     <<: *default
-    url: <%= ENV['DATABASE_URL'] %>
+    url: <%= ENV.fetch("DATABASE_URL") %>
   cable:
     <<: *default
-    url: <%= ENV['DATABASE_URL'] %>
+    url: <%= ENV.fetch("DATABASE_URL") %>
